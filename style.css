@@ -1,0 +1,27 @@
+body{
+    font: arial;
+}
+header{
+    background-color:rgb(255, 192, 203);
+}
+
+nav{
+    text-align: left;
+    text-decoration: none;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 100px;
+    weight: 100px;
+    text-align: center;
+    justify-content: center;
+
+}
+footer{
+    background-color: pink;
+    text-align: center;
+}
